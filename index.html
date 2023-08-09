@@ -22,8 +22,9 @@
     }
 
     body {
-        margin: 0px;
-        padding: 0px;
+        max-width: 924px;
+        margin: 0px auto;
+        padding: 20px 0px 30px 0px;
     }
 
     .row,
@@ -139,7 +140,7 @@
 </head>
 
 <body>
-    <div class="main" id="main">
+    <div class="main">
         <div class="section-1">
             <div class="row">
                 <div class="col-4">
@@ -336,11 +337,9 @@
         </div>
     </div>
     <script>
-    window.onload = function() {
-        if (window.location.hostname != "") {
-            document.getElementById("main").style = "max-width:924px;margin:auto;padding:20px 0px 30px 0px;";
-        }
-    }
+    window.onbeforeprint = (event) => {
+        document.body.style = "padding:0px;!important";
+    };
     </script>
 </body>
 
