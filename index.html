@@ -104,6 +104,11 @@
         text-align: right;
       }
 
+      .address a {
+        text-decoration: none;
+        color: initial;
+      }
+
       .contact {
         display: flex;
         flex-direction: row;
@@ -116,6 +121,7 @@
         color: initial;
       }
 
+      .fa-location-dot,
       .fa-location-arrow,
       .fa-phone,
       .fa-envelope,
@@ -197,42 +203,46 @@
           </div>
           <div class="col-8">
             <div class="address">
-              <span style="font-weight: 600">Location:</span>
-              Sultanpur, Uttar Pradesh, India
+              <a href="https://maps.app.goo.gl/XNqoJZPWQ4xmMZGb9" target="_blank" title="Home Location"
+                > 
+              <i class="fa-solid fa-location-dot"></i> 
+                Location:
+                Sultanpur, Uttar Pradesh, India</a
+              >
             </div>
           </div>
           <div class="col-12 contact">
             <div class="phone">
-              <i class="fa-solid fa-phone"></i>
+              
               <a href="tel:+917610002325" target="_blank" title="Contact Number"
-                >+91-7610002325</a
+                ><i class="fa-solid fa-phone"></i> Mobile: +917610002325</a
               >
             </div>
             <div class="envelope">
-              <i class="fa-solid fa-envelope"></i>
+              
               <a
                 href="mailto:amitdubey8888@gmail.com"
                 target="_blank"
                 title="Email Address"
-                >amitdubey8888@gmail.com</a
+                ><i class="fa-solid fa-envelope"></i> Email: amitdubey8888@gmail.com</a
               >
             </div>
             <div class="github">
-              <i class="fa-brands fa-github"></i>
+              
               <a
                 href="https://github.com/amitdubeyup"
                 target="_blank"
                 title="Github URL"
-                >Github</a
+                ><i class="fa-brands fa-github"></i> GitHub: github.com/amitdubeyup</a
               >
             </div>
             <div class="linkedin">
-              <i class="fa-brands fa-linkedin"></i>
+              
               <a
                 href="https://www.linkedin.com/in/amitdubeyup"
                 target="_blank"
                 title="LinkedIn URL"
-                >LinkedIn</a
+                ><i class="fa-brands fa-linkedin"></i> LinkedIn: linkedin.com/in/amitdubeyup</a
               >
             </div>
           </div>
@@ -248,7 +258,7 @@
           </div>
           <div class="col-12">
             <div class="summary">
-              Senior Software Engineer with 8+ years of experience in full-stack development and technical leadership. Built and scaled products in fintech (loan systems processing ₹50Cr+ monthly), logistics (50K+ daily shipments), and B2B SaaS. Experienced in architecting microservices, integrating complex third-party APIs (GSTN, payment gateways, courier partners), and leading cross-functional teams. Currently expanding expertise in AI/ML through MTech at IIT Dhanbad while building AI-powered recruitment features at HireEZ. Looking for Staff/Lead Engineer roles to drive technical strategy and mentor engineering teams.
+              Senior Software Engineer with 8+ years of experience designing and scaling high-impact products across fintech, logistics, and SaaS. Proven track record of building platforms handling ₹50Cr+ in monthly transactions, 50K+ daily shipments, and 1M+ monthly searches. Expert in microservices, event-driven systems, and AI-powered applications, with strong leadership in guiding teams through architecture decisions, system migrations, and product innovation. Recently drove AI-driven recruitment initiatives at HireEZ and currently pursuing MTech in AI & Data Science at IIT Dhanbad. Seeking Staff Engineer, Lead Engineer, or Technical Lead roles to drive technical strategy, mentor engineering teams, and deliver intelligent, scalable solutions.
             </div>
           </div>
         </div>
@@ -263,8 +273,8 @@
           </div>
           <div class="col-12 skill">
             <div class="skills">
-              <div><strong>Backend:</strong> Node.js, Express.js, Python, FastAPI, MongoDB, PostgreSQL/MySQL, Redis, Elasticsearch, RabbitMQ/Kafka</div>
               <div><strong>Frontend:</strong> React.js, Vue.js, Angular, JavaScript (ES6+), HTML5, CSS3</div>
+              <div><strong>Backend:</strong> Node.js, Express.js, Python, FastAPI, MongoDB, PostgreSQL/MySQL, Redis, Elasticsearch, RabbitMQ/Kafka</div>
               <div><strong>Cloud & DevOps:</strong> AWS (EC2, S3, Lambda, RDS), Docker, Jenkins, CI/CD pipelines</div>
               <div><strong>Architecture:</strong> RESTful APIs, Microservices, Event-driven systems, WebSockets</div>
               <div><strong>Integrations:</strong> Payment gateways (Razorpay, Paytm), Government APIs (GSTN, e-Way Bill), Third-party APIs</div>
