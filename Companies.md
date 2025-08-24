@@ -100,3 +100,63 @@
 | 98   | MoonPay              | https://moonpay.com      | UK      |
 | 99   | Starburst Data       | https://starburst.io     | USA     |
 | 100  | Retool               | https://retool.com       | USA     |
+
+| 101  | Accelerant                  | https://accelins.com                        | UK      |
+| 102  | Babylon Health              | https://www.babylonhealth.com                | UK      |
+| 103  | Beamery                     | https://beamery.com                          | UK      |
+| 104  | BeZero                      | https://bezerocarbon.com                     | UK      |
+| 105  | BGL Group                   | https://www.bglgroup.co.uk                   | UK      |
+| 106  | Blockchain.com              | https://www.blockchain.com                   | UK      |
+| 107  | BrewDog                     | https://www.brewdog.com                      | UK      |
+| 108  | Buyapowa                    | https://www.buyapowa.com                     | UK      |
+| 109  | Castore                     | https://castore.com                          | UK      |
+| 110  | Cera                        | https://ceracare.co.uk                       | UK      |
+| 111  | Checkout.com                | https://www.checkout.com                     | UK      |
+| 112  | CMR Surgical                | https://cmrsurgical.com                      | UK      |
+| 113  | Constellation Automotive Group | https://www.constellationautomotivegroup.com | UK      |
+| 114  | Copper                      | https://copper.co                            | UK      |
+| 115  | ElevenLabs                  | https://elevenlabs.io                        | UK      |
+| 116  | Enable                      | https://enable.com                           | UK      |
+| 117  | Flo                         | https://flo.health                           | UK      |
+| 118  | FNZ                         | https://fnz.com                              | UK      |
+| 119  | Focus Group                 | https://www.focusgroup.co.uk                 | UK      |
+| 120  | GoCardless                  | https://gocardless.com                       | UK      |
+| 121  | Global Switch               | https://www.globalswitch.com                 | UK      |
+| 122  | Graphcore                   | https://www.graphcore.ai                     | UK      |
+| 123  | Greensill                   | https://www.greensill.com                    | UK      |
+| 124  | Howden Group Holdings       | https://www.howdengroupholdings.com          | UK      |
+| 125  | Improbable                  | https://www.improbable.io                    | UK      |
+| 126  | Insider                     | https://useinsider.com                       | UK      |
+| 127  | Lendable                    | https://www.lendable.co.uk                   | UK      |
+| 128  | Lighthouse                  | https://www.lighthousehotels.com             | UK      |
+| 129  | Lukka                       | https://lukka.tech                           | UK      |
+| 130  | ManyPets                    | https://www.manypets.com                     | UK      |
+| 131  | Marshmallow                 | https://marshmallow.com                      | UK      |
+| 132  | Matillion                   | https://www.matillion.com                    | UK      |
+| 133  | Mews                        | https://www.mews.com                         | UK      |
+| 134  | Moniepoint                   | https://moniepoint.com                       | UK      |
+| 135  | Monzo                       | https://monzo.com                            | UK      |
+| 136  | Multiverse                   | https://www.multiverse.io                    | UK      |
+| 137  | OakNorth                     | https://www.oaknorth.com                     | UK      |
+| 138  | Octopus Energy               | https://octopus.energy                       | UK      |
+| 139  | Optibus Technologies         | https://www.optibus.com                      | UK      |
+| 140  | Oxford Nanopore              | https://nanoporetech.com                     | UK      |
+| 141  | Paddle                       | https://www.paddle.com                       | UK      |
+| 142  | PayFit                       | https://payfit.com                           | UK      |
+| 143  | Quantexa                     | https://www.quantexa.com                     | UK      |
+| 144  | Rapyd                        | https://www.rapyd.net                        | UK      |
+| 145  | Revolut                      | https://www.revolut.com                      | UK      |
+| 146  | Starling Bank                | https://www.starlingbank.com                 | UK      |
+| 147  | Stability AI                 | https://stability.ai                         | UK      |
+| 148  | SumUp                        | https://sumup.com                            | UK      |
+| 149  | Synthesia                    | https://www.synthesia.io                     | UK      |
+| 150  | The Access Group              | https://www.theaccessgroup.com               | UK      |
+| 151  | THG Ingenuity                 | https://www.thgingenuity.com                 | UK      |
+| 152  | Thought Machine               | https://thoughtmachine.net                   | UK      |
+| 153  | TradingView                   | https://www.tradingview.com                  | UK      |
+| 154  | Tripledot                     | https://www.tripledotstudios.com             | UK      |
+| 155  | Wayve                         | https://wayve.ai                             | UK      |
+| 156  | Wireless Logic                 | https://www.wirelesslogic.com                | UK      |
+| 157  | ZEPZ                          | https://www.zepzpay.com                      | UK      |
+| 158  | Zilch                         | https://www.zilch.com                        | UK      |
+| 159  | Zyber 365                     | https://zyber365.com                         | UK      |
