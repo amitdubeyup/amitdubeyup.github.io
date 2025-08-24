@@ -160,3 +160,88 @@
 | 157  | ZEPZ                          | https://www.zepzpay.com                      | UK      |
 | 158  | Zilch                         | https://www.zilch.com                        | UK      |
 | 159  | Zyber 365                     | https://zyber365.com                         | UK      |
+
+| 160  | Airwallex                     | https://www.airwallex.com/                   | Australia |
+| 161  | Immutable                     | https://www.immutable.com/                   | Australia |
+| 162  | Zeller                        | https://www.myzeller.com/au                  | Australia |
+| 163  | GO1                           | https://www.go1.com/                         | Australia |
+| 164  | SafetyCulture                 | https://safetyculture.com/                   | Australia |
+| 165  | Culture Amp                   | https://www.cultureamp.com/                  | Australia |
+| 166  | Employment Hero               | https://employmenthero.com/                  | Australia |
+| 167  | Linktree                      | https://linktr.ee/                           | Australia |
+| 168  | Pet Circle                    | https://www.petcircle.com.au/                | Australia |
+| 169  | Atlassian                     | https://www.atlassian.com/                   | Australia |
+| 170  | WiseTech Global               | https://www.wisetechglobal.com/              | Australia |
+| 171  | Xero                          | https://www.xero.com/                        | Australia |
+| 172  | Fleet Space Technologies      | https://www.fleetspace.com/                  | Australia |
+| 173  | Q-CTRL                        | https://q-ctrl.com/                          | Australia |
+| 174  | Dovetail                      | https://dovetail.com/                        | Australia |
+| 175  | Goterra                       | https://goterra.com.au/                      | Australia |
+| 176  | Cauldron                      | https://www.cauldron.tech/                   | Australia |
+| 177  | Silicon Quantum Computing     | https://www.sqc.com.au/                      | Australia |
+| 178  | Honey Insurance               | https://www.honeyinsurance.com.au/           | Australia |
+| 179  | PropHero                      | https://prophero.com.au/                     | Australia |
+| 180  | RightSec                      | https://rightsec.com.au/                     | Australia |
+| 181  | Informatech                   | https://informatech.com.au/                  | Australia |
+| 182  | Trace                         | https://www.our-trace.com/                   | Australia |
+
+| 183  | ByteDance                     | https://www.bytedance.com/                   | China     |
+| 184  | DJI Innovations               | https://www.dji.com/                         | China     |
+| 185  | Shein                         | https://www.shein.com/                       | China     |
+| 186  | SenseTime                     | https://www.sensetime.com/                   | China     |
+| 187  | Xiaohongshu                   | https://www.xiaohongshu.com/                 | China     |
+| 188  | Cainiao (Alibaba Logistics)   | https://www.cainiao.com/                     | China     |
+| 189  | WeRide                        | https://www.weride.ai/                       | China     |
+| 190  | Yuanfudao                     | https://www.yuanfudao.com/                   | China     |
+| 191  | Lalamove                      | https://www.lalamove.com/                    | China     |
+| 192  | Horizon Robotics              | https://en.horizon.ai/                       | China     |
+| 193  | Mingyuan Cloud                | https://www.mingyuanyun.com/                 | China     |
+| 194  | Zhaogang                      | https://www.zhaogang.com/                    | China     |
+| 195  | Xpeng Motors                  | https://en.xiaopeng.com/                     | China     |
+| 196  | Li Auto                       | https://www.lixiang.com/en                   | China     |
+| 197  | Nio                           | https://www.nio.com/                         | China     |
+| 198  | BITMAIN                       | https://www.bitmain.com/                     | China     |
+| 199  | Canaan                        | https://canaan.io/                           | China     |
+| 200  | UBTECH                        | https://www.ubtrobot.com/                    | China     |
+| 201  | CloudWalk                     | https://www.cloudwalk.com/                   | China     |
+| 202  | Megvii                        | https://en.megvii.com/                       | China     |
+| 203  | Zhipu.ai                      | https://www.zhipu.ai/                        | China     |
+| 204  | MiniMax                       | https://www.minimaxi.com/                    | China     |
+| 205  | Moonshot AI                   | https://www.moonshot.cn/                     | China     |
+| 206  | 01.AI                         | https://www.01.ai/                           | China     |
+| 207  | Baichuan                      | https://www.baichuan.ai/                     | China     |
+| 208  | ZJU Xiongfan                  | https://www.xiongfan.com/                    | China     |
+| 209  | StarFive                      | https://www.starfivetech.com/                | China     |
+| 210  | DeepRoute                     | https://www.deeproute.ai/                    | China     |
+| 211  | Black Sesame                  | https://www.bst.ai/                          | China     |
+| 212  | Cambricon                     | https://en.cambricon.com/                    | China     |
+| 213  | Enflame                       | https://en.enflame-tech.com/                 | China     |
+| 214  | PingCAP                       | https://en.pingcap.com/                      | China     |
+| 215  | TuSimple                      | https://www.tusimple.com/                    | China     |
+| 216  | Pony.ai                       | https://www.pony.ai/                         | China     |
+| 217  | Geek+                         | https://www.geekplus.com/                    | China     |
+| 218  | JD Health                     | https://www.jdhealth.com/                    | China     |
+| 219  | JD Logistics                  | https://www.jdlogistics.com/                 | China     |
+| 220  | Keep                          | https://www.gotokeep.com/                    | China     |
+| 221  | Hello Inc.                    | https://www.hello-inc.com/                   | China     |
+| 222  | Manbang Group                 | https://www.manbang.com/                     | China     |
+| 223  | Kuaishou                      | https://www.kuaishou.com/                    | China     |
+| 224  | Chehaoduo (Guazi)             | https://www.guazi.com/                       | China     |
+| 225  | Zhuanzhuan                    | https://www.zhuanzhuan.com/                  | China     |
+| 226  | Beike Zhaofang                | https://www.ke.com/                          | China     |
+| 227  | WeDoctor                      | https://www.wedoc.com/                       | China     |
+| 228  | DingTalk                      | https://www.dingtalk.com/                    | China     |
+| 229  | Kingsoft Cloud                | https://www.ksyun.com/                       | China     |
+| 230  | QingCloud                     | https://www.qingcloud.com/                   | China     |
+| 231  | XTransfer                     | https://www.xtransfer.com/                   | China     |
+| 232  | Airwallex                      | https://www.airwallex.com/                   | China     |
+| 233  | Lufax                         | https://www.lufax.com/                       | China     |
+| 234  | Waterdrop                     | https://www.waterdrop.com/                   | China     |
+| 235  | SmartMore                     | https://www.smartmore.com/                   | China     |
+| 236  | Sinovation Ventures            | https://www.sinovationventures.com/          | China     |
+| 237  | Turing                        | https://www.turing.com/                      | China     |
+| 238  | Andisearch                     | https://www.andisearch.com/                  | China     |
+| 239  | Taichi Graphics                | https://www.taichi.graphics/                 | China     |
+| 240  | Tianqi Cloud                   | https://www.tianqicloud.com/                 | China     |
+| 241  | Biren Technology               | https://www.biren-tech.com/                  | China     |
+| 242  | Voyager Technology             | https://www.voyager.tech/                    | China     |
